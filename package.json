@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": ".",
+  "homepage": "https://baraban2003.github.io/Redux-game/",
   "scripts": {
     "dev": "vite",
     "start": "vite",
